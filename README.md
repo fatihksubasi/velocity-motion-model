@@ -19,7 +19,7 @@ Figure below illustrates poses of the ideal motion between the initial pose x<su
 The noisy motion model implementation is presented by the function
 motion_model_noisy(X, u, dt, noise) in the file titled noisy_motion_model.m
 
-Three figures below illustrate samples of the noisy motion for the final pose for command u = (2 pi/4)<sup>T</sup> , time step dt = 1 and number of samples N = 300 using different noise variances (\sigma).
+Three figures below illustrate samples of the noisy motion for the final pose for command u = (2 pi/4)<sup>T</sup> , time step dt = 1 and number of samples N = 300 using different noise variances.
 
 ![](2.jpg)
 
